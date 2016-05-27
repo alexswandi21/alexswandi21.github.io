@@ -1,25 +1,22 @@
 ---
 layout: default
-title: About ALEX SWANDI
+title: About Me
 ---
 
 <div class="post">
-	<h1 class="pageTitle">About ALEX SWANDI</h1>
+	<h1 class="pageTitle">About Me</h1>
 	<img src="{{ '/assets/img/touring.jpg' | prepend: site.baseurl }}" alt=""> 
-	<p class="intro">Saya adalah mahasiswa sistem informasi UIN SUSKA RIAU.</p>
-	<p>.</p>
-	<h2>Features</h2>
+	<p class="intro">ASSALAMUALAIKUM...</p>
+	<p>Sebelumnya terima kasih telah mengunjungi website saya yang sederhana ini.</p>
+	<h2>About Me</h2>
 	<ul>
-		<li>Built with <a href="http://sass-lang.com/">SASS</a> + <a href="http://compass-style.org/">COMPASS</a></li>
-  		<li>Layout with <a href="http://susy.oddbird.net/">SUSY Grid</a></li>
-  		<li>SVG Social Icons from <a href="http://customizr.net/icons/">Customizr</a></li>
-  		<li><a href="http://responsive-nav.com/">Responsive Nav Menu</a></li>
-  		<li><a href="https://github.com/snaptortoise/jekyll-rss-feeds">XML Feed for RSS Readers</a></li>
-  		<li>Contact Form via <a href="http://formspree.io/">Formspree</a></li>
-      <li>5 Post Loop with excerpt on Home Page</li>
-  		<li>Previous / Next Post Navigation</li>
-      <li>Estimated Reading Time for posts</li>
-  		<li><a href="https://github.com/adobe-webplatform/dropcap.js">Drop Cap</a> on posts</li>
-  		<li><a href="http://typecast.com/blog/a-more-modern-scale-for-web-typography">A Better Type Scale</a></li>
+		<li>Nama Alex Swandi </li>
+  		<li>Panggilan Alex</li>
+  		<li>TTL Pasaman,21-02-1996</li>
+  		<li>Email blade.alexswandi@gmail.com</li>
+  		<li>Belajar Di UIN SUSKA RIAU</li>
+  		<li>Jurusan Sistem Informasi</li>
+  		<li><a href="https://www.facebook.com/alex.swandi.7">Facebook</a></li>
+  	
   	</ul>
 </div>
